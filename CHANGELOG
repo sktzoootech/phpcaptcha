@@ -1,0 +1,6 @@
+0.1:
+- initial release
+
+0.2:
+- fixes for SS 2.4 and the new SpamModule, WARNING: this will probably break
+compability with older versions

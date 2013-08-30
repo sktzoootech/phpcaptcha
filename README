@@ -1,0 +1,36 @@
+------------------------------
+PhpCaptcha Module vr 0.2
+------------------------------
+
+Provides a FormField which allows forms to validate for non-bot submissions
+by giving them a challenge to decrypt an image or sound using the
+Visual and Audio PHP CAPTCHA Generation Class by Ed Eliot from
+
+http://www.ejeliot.com/pages/2
+
+This module is also suplied with Bitstream Vers fonts from
+
+http://www.gnome.org/fonts/
+
+AUTHOR
+------
+Adam Walczak
+Email: me@adamwalczak.info
+WWW: www.adamwalczak.info
+
+Polish SS community site:
+www.silverstripe.org.pl
+
+REQUIREMENTS
+------------
+At least SilverStripe 2.4 and the Spam Protection module
+
+DOCUMENTATION
+-------------
+http://doc.silverstripe.com/doku.php?id=modules:phpcaptcha
+
+INSTALL
+-------
+
+1) Copy the modules:phpcaptcha directory into your main SilverStripe directory
+2) run ?flush=1
